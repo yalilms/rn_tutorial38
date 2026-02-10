@@ -1,0 +1,32 @@
+{
+		"productos":[
+			{
+				"id":"1",
+				"nombre":"Portátil Dell XPS 13",
+				"categoria":"Portátil ligero",
+				"icono":"laptop",
+				"precio":1200
+			},
+			{
+				"id":"2",
+				"nombre":"Monitor LG 27",
+				"categoria":"Monitor IPS Full HD",
+				"icono":"monitor",
+				"precio":300
+			},
+			{
+				"id":"3",
+				"nombre":"Teclado Mecánico Logitech",
+				"categoria":"Teclado mecánico retroiluminado",
+				"icono":"keyboard",
+				"precio":80
+			},
+			{
+				"id":"4",
+				"nombre":"Mouse Razer DeathAdder",
+				"categoria":"Ratón ergonómico para gaming",
+				"icono":"mouse",
+				"precio":60
+			}
+		]
+}
